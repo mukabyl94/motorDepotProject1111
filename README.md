@@ -1,4 +1,3 @@
-# motorDepotProject
 Java 16. Посмотреть информацию о JSON.
 Настроить JSON Intel IDea. 
 Commit после каждого этапа. 
