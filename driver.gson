@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Tom   ",
+    "truckName": "Volvo"
+  },
+  {
+    "id": 2,
+    "name": "Jerry ",
+    "truckName": "Renault"
+  },
+  {
+    "id": 3,
+    "name": "Mick  ",
+    "truckName": "DAF XT"
+  }
+]
